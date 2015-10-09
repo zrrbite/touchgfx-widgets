@@ -14,7 +14,8 @@ Read more about the concept of widgets, containers and mixins in  in the TouchGF
 # Videos
 
 * [TouchGFX demo at Embedded World 2014](http://www.youtube.com/watch?v=9qMQdrFGXI4)
-* [TouchGFX Demo on STM32F429 Evaluation Board](http://www.youtube.com/watch?v=QcKX_Pc6ldU)
+* [TouchGFX Demo on STM32F429 Evaluation Board 4,3"](http://www.youtube.com/watch?v=QcKX_Pc6ldU)
+* [TouchGFX Demo on STM32F429 Evaluation Board with a 5.7" Display](https://www.youtube.com/watch?v=yIm7Yz8Ppeg)
 * [TouchGFX Demo on STM32F4 Discovery Board](http://www.youtube.com/watch?v=j-fgE1hOlbo)
 * [TouchGFX Demo on 4.3" Embedded Artist LPC4088 Display Module](https://www.youtube.com/watch?v=g_GjiUXrIc8)
 * [TouchGFX Demo on NXP LPC 4353 5,7"](https://www.youtube.com/watch?v=4V8W46zS1Vg)
